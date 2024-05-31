@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cz-oj-test
+
+server:
+  port: 8081
